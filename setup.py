@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
-
+#setup function
 setup(
     name = 'Generative AI Project',
     version= '0.0.0',
